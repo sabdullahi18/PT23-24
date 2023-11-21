@@ -1,6 +1,13 @@
 # PT23-24
 Materials used for the Programming Tutor sessions (2023-2024)
 
+[C](#C)
+
+[Git Version Control](#Git-Version-Control)
+
+[Discrete Mathematics](#Discrete-Mathematics)
+
+[Haskell](#Haskell)
 ## Curriculum
 ## C
 - For loop
