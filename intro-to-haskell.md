@@ -1,4 +1,4 @@
-# Introuduction to Haskell
+# Introduction to Haskell
 ## Lists and Tuples
 ### Lists
 Haskell lists are __homogeneous__ data structures, meaning all the elements of the list must be the same type. A list is surrounded by square brackets and the elements are separated by commas. Use ```let``` as keyword to define a name in GHCi.
